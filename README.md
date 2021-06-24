@@ -3,8 +3,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azul915" alt="azul915" /></a> </p>
 
-- 🏢 I’m looking to collaborate on **OPTiM, Corp.**
-
 - 💻 I’m currently learning **Kotlin,Go,React.js,Docker, k8s**
 
 <p align="left">
