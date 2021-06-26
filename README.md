@@ -6,19 +6,22 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azul915&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azul915&theme=default)
 
-# Technical Interests
+# Technical Interests 🥰
 
 ## Backend
-Kotlin, Java, Go, Python, SpringBoot
+Kotlin <img src="https://cdn.iconscout.com/icon/free/png-128/kotlin-3521538-2944956.png" width="15">, Java <img src="https://cdn.iconscout.com/icon/free/png-256/java-3628857-3029997.png" width="20">, Go, Python <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="20">, SpringBoot
 
 ## OS, Middleware, Infrastructure
-MacOS, Docker, Kubernetes, Terraform
+MacOS <img src="https://cdn.iconscout.com/icon/premium/png-128-thumb/mac-1989175-1681377.png" width="20">, Docker <img src="https://cdn.iconscout.com/icon/free/png-128/social-275-116309.png" width="20">, Kubernetes, Terraform
 
 ## IaaS
-AWS, GCP
+AWS <img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" width="20">, GCP <img src="https://cdn.iconscout.com/icon/free/png-128/google-cloud-platform-2-569356.png" width="20">
 
 ## Frontend
 React.js, TypeScript
+
+## Design
+DDD, CleanArchitecture
 
 ## Tools
 VSCode, IntelliJ IDEA CE, Notion, Obsidian, Drawio, PlantUML
