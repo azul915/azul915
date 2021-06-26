@@ -26,6 +26,10 @@ DDD, CleanArchitecture
 ## Tools
 VSCode <img src="https://cdn.iconscout.com/icon/free/png-128/visual-studio-code-1868941-1583105.png" width="20">, IntelliJ IDEA CE <img src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png" width="20">, Notion <img src="https://cdn.iconscout.com/icon/free/png-128/notion-2296040-1911999.png" width="20">, Obsidian <img src="https://obsidian.md/favicon.ico" width="20">, Drawio <img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" width="15">, PlantUML
 
+## knowledsge ✍️
+- [Qiita](https://qiita.com/azul915)
+- [Zenn](https://zenn.dev/az)
+
 <!--
 **azul915/azul915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
