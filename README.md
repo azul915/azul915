@@ -18,13 +18,13 @@ MacOS <img src="https://cdn.iconscout.com/icon/premium/png-128-thumb/mac-1989175
 AWS <img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" width="20">, GCP <img src="https://cdn.iconscout.com/icon/free/png-128/google-cloud-platform-2-569356.png" width="20">
 
 ## Frontend
-React.js, TypeScript
+React.js <img src="https://cdn.iconscout.com/icon/free/png-128/react-226053.png" width="20"> TypeScript <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-3521774-2945272.png" width="20">
 
 ## Design
 DDD, CleanArchitecture
 
 ## Tools
-VSCode, IntelliJ IDEA CE, Notion, Obsidian, Drawio, PlantUML
+VSCode <img src="https://cdn.iconscout.com/icon/free/png-128/visual-studio-code-1868941-1583105.png" width="20">, IntelliJ IDEA CE <img src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png" width="20">, Notion <img src="https://cdn.iconscout.com/icon/free/png-128/notion-2296040-1911999.png" width="20">, Obsidian, Drawio, PlantUML
 
 <!--
 **azul915/azul915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
