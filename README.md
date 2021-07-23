@@ -42,6 +42,7 @@ VSCode <img src="https://cdn.iconscout.com/icon/free/png-128/visual-studio-code-
 # Knowledge ✍️
 - [Qiita](https://qiita.com/azul915)
 - [Zenn](https://zenn.dev/az)
+- [GitHub Gist](https://gist.github.com/azul915)
 
 <!--
 **azul915/azul915** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
