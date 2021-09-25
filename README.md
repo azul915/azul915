@@ -6,6 +6,11 @@
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=azul915&theme=default)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=azul915&theme=default)
 
+# Contents 🚀
+
+## Chronological Resume 
+- https://my-resume.azul915.com
+
 # Technical Interests 🥰
 
 ## Backend
