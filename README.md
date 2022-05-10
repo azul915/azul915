@@ -23,7 +23,7 @@ MacOS <img src="https://cdn.iconscout.com/icon/premium/png-128-thumb/mac-1989175
 AWS <img src="https://cdn.iconscout.com/icon/free/png-256/aws-1869025-1583149.png" width="20">, GCP <img src="https://cdn.iconscout.com/icon/free/png-128/google-cloud-platform-2-569356.png" width="20">, Firebase <img src="https://cdn.iconscout.com/icon/free/png-128/firebase-3521427-2944871.png" width="20">
 
 ## Frontend
-React.js <img src="https://cdn.iconscout.com/icon/free/png-128/react-226053.png" width="20">, Next.js <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" width="25">, TypeScript <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-3521774-2945272.png" width="20">
+React.js <img src="https://cdn.iconscout.com/icon/free/png-128/react-226053.png" width="20">, Next.js <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" height="20">, TypeScript <img src="https://cdn.iconscout.com/icon/free/png-256/typescript-3521774-2945272.png" width="20">
 
 ## Design
 DDD, CleanArchitecture
