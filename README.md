@@ -47,6 +47,7 @@ VSCode <img src="https://cdn.iconscout.com/icon/free/png-128/visual-studio-code-
 # Knowledge ✍️
 - [Qiita](https://qiita.com/azul915)
 - [Zenn](https://zenn.dev/az)
+- [Zenn-Scraps](https://zenn.dev/az?tab=scraps)
 - [GitHub Gist](https://gist.github.com/azul915)
 
 <!--
