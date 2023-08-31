@@ -14,7 +14,7 @@
 # Technical Interests 🥰
 
 ## Backend
-Kotlin(for ⚠️**serverside**), KotlinNative <img src="https://blog.jetbrains.com/wp-content/uploads/2019/01/kotlin_logotype.svg" width="15">, Java <img src="https://cdn.iconscout.com/icon/free/png-256/java-3628857-3029997.png" width="20">, Go <img src="https://cdn.worldvectorlogo.com/logos/gopher.svg" width="15">, Python <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="20">, SpringBoot <img width="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNou7-DlVcN5nOVq73_RDi6OAYZAzOknfzQw&amp;usqp=CAU">, Quarkus <img src="https://avatars.githubusercontent.com/u/47638783?s=200&v=4" width="20">
+Go <img src="https://cdn.worldvectorlogo.com/logos/gopher.svg" width="15">, Kotlin(for ⚠️**serverside**), KotlinNative <img src="https://blog.jetbrains.com/wp-content/uploads/2019/01/kotlin_logotype.svg" width="15">, Java <img src="https://cdn.iconscout.com/icon/free/png-256/java-3628857-3029997.png" width="20">, Python <img src="https://cdn.iconscout.com/icon/free/png-256/python-3521655-2945099.png" width="20">, SpringBoot <img width="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRNou7-DlVcN5nOVq73_RDi6OAYZAzOknfzQw&amp;usqp=CAU">, Quarkus <img src="https://avatars.githubusercontent.com/u/47638783?s=200&v=4" width="20">
 
 ## OS, Middleware, Infrastructure
 MacOS <img src="https://cdn.iconscout.com/icon/premium/png-128-thumb/mac-1989175-1681377.png" width="20">, Docker <img src="https://cdn.iconscout.com/icon/free/png-128/social-275-116309.png" width="20">, Kubernetes <img src="https://cdn.worldvectorlogo.com/logos/kubernets.svg" width="20">, Terraform <img src="https://i.pinimg.com/originals/28/ec/74/28ec7440a57536eebad2931517aa1cce.png" width="25">
@@ -30,6 +30,9 @@ DDD, CleanArchitecture
 
 ## Tools
 VSCode <img src="https://cdn.iconscout.com/icon/free/png-128/visual-studio-code-1868941-1583105.png" width="20">, IntelliJ IDEA CE <img src="https://cdn.iconscout.com/icon/free/png-256/intellij-idea-569199.png" width="20">, Notion <img src="https://cdn.iconscout.com/icon/free/png-128/notion-2296040-1911999.png" width="20">, Obsidian <img src="https://obsidian.md/favicon.ico" width="20">, Drawio <img src="https://cdn.worldvectorlogo.com/logos/draw-io.svg" width="15">, PlantUML
+
+## Other
+GraphQL <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/512px-GraphQL_Logo.svg.png" width="20">
 
 # Sandbox 🧪
 
